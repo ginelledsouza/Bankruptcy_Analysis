@@ -20,7 +20,7 @@ programmatically pick the best features, and analyze how it affects our model.
 
 # Analysis Findings / Outcomes
 |  Algorithm | Model Score  | F1 score  |
-|---|---|---|---|---|
+|---|---|---|
 |  Random Forest Classifier | 98.9% |  0.86 |
 |  K Nearest Neighbour | 98.02%  | 0.78 |
 |  Support Vector Classifier | 95.82%  | 0.62 |
